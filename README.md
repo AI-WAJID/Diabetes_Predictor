@@ -90,4 +90,4 @@ This project is for educational purposes.
 
 ---
 
-**Made with ❤️ using Streamlit and
+**Made with ❤️ using Streamlit and scikit learn

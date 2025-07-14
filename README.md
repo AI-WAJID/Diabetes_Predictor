@@ -1,4 +1,4 @@
-# 🩺 Diabetes Predictor:
+# 🩺 Diabetes Predictor: https://diabetes-predictor-zmvx.onrender.com
 
 A machine learning web app built with **Streamlit** that predicts whether a person is diabetic based on medical information. The app uses a trained SVM pipeline and provides a modern, responsive UI with support for both light and dark mode.
 
